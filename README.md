@@ -5,12 +5,9 @@
 
 <!-- ================= Image depuis ordinateur ================= -->
 <p align="center">
-  <img src="https://github.com/abirmeskin22-glitch/abirmeskin22-glitch/blob/main/motherhubbertocat.png?raw=true" 
-       width="800" 
-       alt="Mother HubbertoCat"/>
+  <img src="lien-de-ton-image-transparent.png" width="500" alt="Image transparente"/>
 </p>
 
-</p>
 
 
 ## 💫 About Me
