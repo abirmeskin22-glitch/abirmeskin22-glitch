@@ -5,7 +5,7 @@
 
 <p align="center">
   <img src="https://github.com/abirmeskin22-glitch/abirmeskin22-glitch/blob/main/motherhubbertocat-removebg-preview.png?raw=true" 
-       width="700" 
+       width="400" 
        alt="Mother HubbertoCat"/>
 </p>
 
