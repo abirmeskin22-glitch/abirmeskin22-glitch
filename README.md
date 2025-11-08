@@ -1,5 +1,6 @@
 # 🌟 Abir Meskin - Full-Stack Developer
-![welcome](https://media.giphy.com/media/3ohhwH4fE0v8qhf3vu/giphy.gif)
+![Welcome](https://media.giphy.com/media/l46Ca3V9LzLn2uC1S/giphy.gif)
+
 
 ## 💫 About Me
 🔭 I’m currently working on a **full-stack e-commerce project with Laravel and Vue.js**  
