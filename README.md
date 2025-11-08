@@ -1,100 +1,56 @@
-<!DOCTYPE html>
-<html lang="fr">
-<head>
-  <meta charset="UTF-8"/>
-  <meta name="viewport" content="width=device-width, initial-scale=1.0"/>
-  <title>Profil - Nouveau Modèle</title>
-  <style>
-    :root{
-      --bg:#0f141b;
-      --fg:#e9eef5;
-      --accent:#ff6b46;
-    }
-    *{box-sizing:border-box}
-    body{
-      margin:0;
-      font-family: -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto, Arial, sans-serif;
-      background:#0b111a;
-      color:#e6e6e6;
-    }
-    header{
-      text-align:center;
-      padding:28px 16px 12px;
-      border-bottom:1px solid rgba(255,255,255,.08);
-      background:#111821;
-    }
-    .wave{
-      font-weight:700;
-      font-size:28px;
-      letter-spacing:2px;
-      color:#fff;
-      text-shadow:0 0 8px rgba(0,150,255,.6);
-    }
-    .badge{display:inline-block;margin-top:8px;color:#cbd5e1}
-    h1{font-size:40px;margin:6px 0 0}
-    .subtitle{font-size:20px;margin-top:6px;color:#cbd5e1}
-    .hero{
-      padding:40px 20px 60px;
-      display:flex;
-      flex-direction:column;
-      align-items:center;
-      gap:18px;
-    }
-    .card{
-      width:320px;height:320px;
-      border-radius:20px;
-      background:url('https://images.unsplash.com/photo-1519389950473-47ba0277781c?w=800&q=60') center/cover no-repeat;
-      box-shadow:0 20px 40px rgba(0,0,0,.5);
-      display:flex;align-items:flex-end;justify-content:center;
-      position:relative;
-    }
-    .overlay{
-      width:100%;height:100%;
-      border-radius:20px;
-      background:linear-gradient(to top, rgba(0,0,0,.8), rgba(0,0,0,.3) 60%, transparent);
-      display:flex;align-items:flex-end;justify-content:center;padding:16px;
-      color:white;
-    }
-    .overlay h2{margin:0;font-size:22px;text-shadow:0 2px 6px rgba(0,0,0,.7)}
-    .footer-space{height:40px}
-    .code{font-family: ui-monospace,SFMono-Regular,Monaco,Consolas,"Liberation Mono";font-size:12px; color:#88d3ff}
-  </style>
-</head>
-<body>
-  <header>
-    <div class="wave" aria-label="Welcome">
-      👋 Salut, je suis
-    </div>
-    <h1>Nouvelle Démo de Profil</h1>
-    <div class="badge">🚀 Un candidat passionné de développement Web</div>
-  </header>
+# 🌟 Abir Meskin - Full-Stack Developer
+![welcome](https://media.giphy.com/media/3ohhwH4fE0v8qhf3vu/giphy.gif)
 
-  <section class="hero">
-    <div class="card" aria-label="image de présentation">
-      <div class="overlay">
-        <h2>Super Développeur Web — Nouveau Modèle</h2>
-      </div>
-    </div>
+## 💫 About Me
+🔭 I’m currently working on a **full-stack e-commerce project with Laravel and Vue.js**  
+👯 I’m looking to collaborate on **open-source web development projects**  
+🤝 I’m looking for help with **stopping my code from breaking when I blink** 👀💥  
+🌱 I’m currently learning **Laravel, Vue.js, and how to survive without food**  
+💬 Ask me about **web development, databases**  
+⚡ Fun fact: I can't concentrate when I'm hungry 🍕😅  
 
-    <div class="subtitle">📌 Début de code inspiré par le modèle ci-dessus</div>
+---
 
-    <!-- Exemple de contenu textuel pour la section “À propos” -->
-    <p class="code" style="text-align:center; max-width:720px;">
-      <strong>&lt;header&gt;</strong> // Entête similaire
-      <br/>
-      <strong>&lt;h1&gt;</strong> Nouveau Titre — Ton Nom
-      <br/>
-      <strong>&lt;p&gt;</strong> Slogan ou court descriptif
-      <br/>
-      <strong>&lt;/header&gt;</strong>
-    </p>
-  </section>
+## 🌐 Socials
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/meskin-abir-350b92364/) 
+[![Email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:abir.meskin22@gmail.com)  
 
-  <section style="text-align:center;margin:20px 0;">
-    <a href="#" style="color:#8ab4f8;text-decoration:none;font-weight:600;">LinkedIn</a> •
-    <a href="#" style="color:#8ab4f8;text-decoration:none;margin-left:6px;font-weight:600;">Email</a>
-  </section>
 
-  <footer class="footer-space" aria-label="fin de page"></footer>
-</body>
-</html>
+
+---
+
+## 💻 Tech Stack
+
+| Frontend | Backend | Database | Design & Tools |
+|----------|---------|----------|----------------|
+| ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?logo=html5&logoColor=white) ![JS](https://img.shields.io/badge/javascript-%23323330.svg?logo=javascript&logoColor=%23F7DF1E) ![Vue.js](https://img.shields.io/badge/vue.js-35495E.svg?logo=vue.js&logoColor=4FC08D) ![React](https://img.shields.io/badge/react-%2320232a.svg?logo=react&logoColor=%2361DAFB) | ![PHP](https://img.shields.io/badge/php-%23777BB4.svg?logo=php&logoColor=white) ![Laravel](https://img.shields.io/badge/laravel-%23FF2D20.svg?logo=laravel&logoColor=white) ![Node.js](https://img.shields.io/badge/node.js-6DA55F.svg?logo=node.js&logoColor=white) ![Python](https://img.shields.io/badge/python-3670A0.svg?logo=python&logoColor=ffdd54) | ![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?logo=mysql&logoColor=white) ![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?logo=mongodb&logoColor=white) | ![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?logo=figma&logoColor=white) ![Canva](https://img.shields.io/badge/Canva-%2300C4CC.svg?logo=Canva&logoColor=white) ![Adobe](https://img.shields.io/badge/adobe-%23FF0000.svg?logo=adobe&logoColor=white) |
+
+
+
+---
+
+## 📊 GitHub Stats
+![GitHub stats](https://github-readme-stats.vercel.app/api?username=abirmeskin22-glitch&theme=blue_navy&show_icons=true)  
+![Streak](https://nirzak-streak-stats.vercel.app/?user=abirmeskin22-glitch&theme=blue_navy)  
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=abirmeskin22-glitch&theme=blue_navy&layout=compact)
+
+---
+
+## 🏆 GitHub Trophies
+![GitHub Trophies](https://github-profile-trophy.vercel.app/?username=abirmeskin22-glitch&theme=radical&no-bg=true&margin-w=4)
+
+---
+
+### ✍️ Random Dev Quote
+![Dev Quote](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
+
+---
+
+### 🔝 Top Contributed Repo
+![Top Repo](https://github-contributor-stats.vercel.app/api?username=abirmeskin22-glitch&limit=5&theme=dark&combine_all_yearly_contributions=true)
+
+---
+
+![footer](https://media.giphy.com/media/l0MYt5jPR6QX5pnqM/giphy.gif)
+
+[![](https://visitcount.itsvg.in/api?id=abirmeskin22-glitch&icon=0&color=0)](https://visitcount.itsvg.in)
