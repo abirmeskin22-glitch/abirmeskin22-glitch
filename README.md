@@ -1,6 +1,6 @@
 # 🌟 Abir Meskin - Full-Stack Developer
 
-![header](https://media.giphy.com/media/3o7TKtnuHOHHUjR38Y/giphy.gif)
+
 
 ---
 
@@ -18,7 +18,7 @@
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/meskin-abir-350b92364/) 
 [![Email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:abir.meskin22@gmail.com)  
 
-![socials](https://media.giphy.com/media/3oEjI6SIIHBdRxXI40/giphy.gif)
+
 
 ---
 
@@ -28,7 +28,7 @@
 |----------|---------|----------|----------------|
 | ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?logo=html5&logoColor=white) ![JS](https://img.shields.io/badge/javascript-%23323330.svg?logo=javascript&logoColor=%23F7DF1E) ![Vue.js](https://img.shields.io/badge/vue.js-35495E.svg?logo=vue.js&logoColor=4FC08D) ![React](https://img.shields.io/badge/react-%2320232a.svg?logo=react&logoColor=%2361DAFB) | ![PHP](https://img.shields.io/badge/php-%23777BB4.svg?logo=php&logoColor=white) ![Laravel](https://img.shields.io/badge/laravel-%23FF2D20.svg?logo=laravel&logoColor=white) ![Node.js](https://img.shields.io/badge/node.js-6DA55F.svg?logo=node.js&logoColor=white) ![Python](https://img.shields.io/badge/python-3670A0.svg?logo=python&logoColor=ffdd54) | ![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?logo=mysql&logoColor=white) ![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?logo=mongodb&logoColor=white) | ![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?logo=figma&logoColor=white) ![Canva](https://img.shields.io/badge/Canva-%2300C4CC.svg?logo=Canva&logoColor=white) ![Adobe](https://img.shields.io/badge/adobe-%23FF0000.svg?logo=adobe&logoColor=white) |
 
-![tech](https://media.giphy.com/media/l0HlOvJ7yaacpuSas/giphy.gif)
+
 
 ---
 
