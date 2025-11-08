@@ -7,6 +7,7 @@
   <img src="https://github.com/abirmeskin22-glitch/abirmeskin22-glitch/blob/main/motherhubbertocat-removebg-preview.png?raw=true" 
        width="300" 
        alt="Mother HubbertoCat"/>
+  <h2>Sometimes, I completely forget that I’m a developer when facing these things👆</h2>
 </p>
 
 
