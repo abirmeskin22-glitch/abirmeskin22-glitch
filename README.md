@@ -13,7 +13,6 @@
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/meskin-abir-350b92364/) 
 [![Email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:abir.meskin22@gmail.com)  
-[![Portfolio](https://img.shields.io/badge/Portfolio-%23FF6F61.svg?logo=google-chrome&logoColor=white)](https://abirmeskin.dev)  
 
 ---
 
