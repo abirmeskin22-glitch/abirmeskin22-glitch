@@ -4,7 +4,12 @@
 <p align="center">
   <img src="https://user-images.githubusercontent.com/42378118/110234147-e3259600-7f4e-11eb-95be-0c4047144dea.gif" width="80" alt="Hello"/>
 </p>
----
+
+<!-- ================= Image depuis ordinateur ================= -->
+<p align="center">
+  <img src="https://github.com/abirmeskin22-glitch/abirmeskin22-glitch/blob/main/t%C3%A9l%C3%A9chargement.jpeg?raw=true" width="300" alt="Téléchargement"/>
+</p>
+
 
 ## 💫 About Me
 🔭 I’m currently working on a **full-stack e-commerce project with Laravel and Vue.js**  
