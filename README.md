@@ -6,7 +6,7 @@
 <!-- ================= Image depuis ordinateur ================= -->
 <p align="center">
   <img src="https://github.com/abirmeskin22-glitch/abirmeskin22-glitch/blob/main/t%C3%A9l%C3%A9chargement.jpeg?raw=true" 
-       width="300" 
+       width="1000" 
        height="500" 
        alt="Téléchargement"/>
 </p>
