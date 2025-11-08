@@ -1,7 +1,5 @@
 # 🌟 Abir Meskin - Full-Stack Developer
-
-![header](https://tenor.com/view/blue-aesthetic-welcome-gif-23994012)
-
+![welcome](https://media.giphy.com/media/l46Ca3V9LzLn2uC1S/giphy.gif)
 ---
 
 ## 💫 About Me
