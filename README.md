@@ -3,9 +3,10 @@
 <!-- ================= Header GIF ================= -->
 
 
-<!-- ================= Image depuis ordinateur ================= -->
 <p align="center">
-  <img src="lien-de-ton-image-transparent.png" width="500" alt="Image transparente"/>
+  <img src="https://github.com/abirmeskin22-glitch/abirmeskin22-glitch/blob/main/motherhubbertocat-removebg-preview.png?raw=true" 
+       width="700" 
+       alt="Mother HubbertoCat"/>
 </p>
 
 
