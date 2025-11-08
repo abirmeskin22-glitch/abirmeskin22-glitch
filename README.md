@@ -1,6 +1,6 @@
 # 🌟 Abir Meskin - Full-Stack Developer
 
-![header](https://media.giphy.com/media/3o7TKtnuHOHHUjR38Y/giphy.gif)
+
 
 ---
 
@@ -18,7 +18,7 @@
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/meskin-abir-350b92364/) 
 [![Email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:abir.meskin22@gmail.com)  
 
-![socials](https://media.giphy.com/media/3oEjI6SIIHBdRxXI40/giphy.gif)
+
 
 ---
 
