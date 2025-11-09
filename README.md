@@ -23,7 +23,8 @@
 ---
 ## 👀 Profile Views
 
-![Visitor Count](https://profile-counter.glitch.me/abirmeskin22-glitch/count.svg)
+![Profile Visits](https://img.shields.io/badge/Profile-Views-ff69b4)
+
 
 
 
